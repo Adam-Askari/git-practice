@@ -1,0 +1,7 @@
+mkdir git-practice
+
+cd git-practice
+
+touch data.txt
+
+code .
